@@ -89,10 +89,10 @@ ReactDOM.render(
 ## Related components
 
 ### Sibling component:
-(`<HideAt />`)[https://github.com/kristof0425/react-hide-at]
+[`<HideAt />`](https://github.com/kristof0425/react-hide-at)
 
 ### Parent component:
-(`<withBreakpoint(HideAt) />`)[https://github.com/kristof0425/react-with-breakpoints]
+[`<withBreakpoint(HideAt) />`](https://github.com/kristof0425/react-with-breakpoints)
 
 ## Contributions
 
