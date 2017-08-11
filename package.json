@@ -39,7 +39,12 @@
     "display",
     "react-display",
     "react-hide-at",
-    "HideAt",
+    "react-show-at",
+    "ShowAt",
+    "show",
+    "show-at",
+    "react-show",
+    "react-toggle",
     "hide",
     "airbnb",
     "react-with-styles"
