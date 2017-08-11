@@ -1,5 +1,7 @@
 # react-show-at
 
+[![Build Status](https://travis-ci.org/kristof0425/react-show-at.svg?branch=master)](https://travis-ci.org/kristof0425/react-show-at)
+
 Build leaner webpages with `react-show-at` like Airbnb. 👌
 
 ## Install
