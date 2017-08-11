@@ -95,7 +95,7 @@ ReactDOM.render(
 [`<HideAt />`](https://github.com/kristof0425/react-hide-at)
 
 ### Parent component:
-[`<withBreakpoint(HideAt) />`](https://github.com/kristof0425/react-with-breakpoints)
+[`<withBreakpoint(ComponentToBeWrapped) />`](https://github.com/kristof0425/react-with-breakpoints)
 
 ## Contributions
 
